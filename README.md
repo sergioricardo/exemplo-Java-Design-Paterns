@@ -1,6 +1,6 @@
-# exemplo-Java-Design-Patterns
+# exemplo-Java-Design-Paterns
 
-Olá. Este é um repositório onde será colocado exercicios de Java-Design-Patterns.
+Olá. Este é um repositório onde será colocado exercicios de Java-Design-Paterns.
 O intuíto é avançar no código com o passar do tempo e melhorar o projeto.
 
 Caso goste, deixe sua mensagem.
